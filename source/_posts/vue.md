@@ -1,14 +1,18 @@
 ---
 title: vue-cli项目搭建
+comments: true
+categories: vue
+tag: vue
 ---
 vue中文官网 https://cn.vuejs.org/
+<!--more-->
+
 #### 谷歌调试工具:dev-tools
 1.github下载地址：[https://github.com/vuejs/vue-devtools](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue-devtools)
 2.下载好后进入vue-devtools-master工程  执行npm install ----->npm run build.
 3.然后打开shells>chrome>src>manifest.json 把里面的"persistent": false改为true
 4.打开谷歌浏览器设置--->扩展程序--》勾选开发者模式---》添加工程中的shells-->chrome的内容，至此恭喜已经安装成功！！！
 5.打开自己的vue项目中，如果是有vue-cli构建的项目，执行npm run dev,打开http://localhost:8080/ 服务器调试地址；至此完成devtools的安装；
-
 #### 利用vue-cli来初始化我们的项目
 ```
 //全局安装webpack
