@@ -1,7 +1,7 @@
 ---
 title: vue-cli项目搭建
 comments: true
-categories: vue
+categories: javascript
 tag: vue
 ---
 vue中文官网 https://cn.vuejs.org/
