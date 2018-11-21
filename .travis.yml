@@ -13,7 +13,7 @@ deploy:
   repo: pauljun/pauljun.github.io # optional, defaults to current repo
   local_dir: public # optional, defaults to the current directory
   target_branch: master # optional, defaults to "gh-pages"
-  fqdn: <custom-domain-url> # optional
+  fqdn: https://pauljun.github.io # optional
   project_name: home # optional, defaults to value of fqdn or repo
   email: 467655062@qq.com # optional, defaults to "deploy@travis-ci.org"
   name: pauljun # optional, defaults to "Deployment Bot"
